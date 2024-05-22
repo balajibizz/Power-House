@@ -6,6 +6,10 @@ public class GitClass {
 		
 		String a="007";
 		System.out.println(a);
+		
+		int b=12;
+		System.out.println(b);
+		
 	}
 
 }
