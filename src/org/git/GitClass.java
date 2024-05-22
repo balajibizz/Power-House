@@ -6,6 +6,8 @@ public class GitClass {
 		
 		String a="007";
 		System.out.println(a);
+		
+		System.out.println("ddfsdcg");
 	}
 
 }
